@@ -93,6 +93,13 @@
 .paragraph {
   text-align:left;
 }
+.table_cell {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
 ._文本 {
   text-align:left;
 }
@@ -149,7 +156,7 @@
 .tree_node {
   text-align:left;
 }
-.table_cell {
+.table_cell1 {
 }
 .menu_item {
 }
