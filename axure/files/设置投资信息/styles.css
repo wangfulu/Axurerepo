@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:857px;
+  width:1017px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u41322_img {
+#u41447_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:357px;
   height:800px;
 }
-#u41322 {
+#u41447 {
   border-width:0px;
   position:absolute;
   left:63px;
@@ -28,7 +28,7 @@
   width:357px;
   height:800px;
 }
-#u41323 {
+#u41448 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -36,7 +36,7 @@
   width:353px;
   word-wrap:break-word;
 }
-#u41324_img {
+#u41449_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -44,7 +44,7 @@
   width:315px;
   height:623px;
 }
-#u41324 {
+#u41449 {
   border-width:0px;
   position:absolute;
   left:84px;
@@ -52,7 +52,7 @@
   width:315px;
   height:623px;
 }
-#u41325 {
+#u41450 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -61,7 +61,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u41326_img {
+#u41451_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -69,15 +69,15 @@
   width:357px;
   height:800px;
 }
-#u41326 {
+#u41451 {
   border-width:0px;
   position:absolute;
-  left:500px;
+  left:660px;
   top:50px;
   width:357px;
   height:800px;
 }
-#u41327 {
+#u41452 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -85,7 +85,7 @@
   width:353px;
   word-wrap:break-word;
 }
-#u41328_img {
+#u41453_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -93,20 +93,55 @@
   width:320px;
   height:612px;
 }
-#u41328 {
+#u41453 {
   border-width:0px;
   position:absolute;
-  left:520px;
+  left:680px;
   top:145px;
   width:320px;
   height:612px;
 }
-#u41329 {
+#u41454 {
   border-width:0px;
   position:absolute;
   left:2px;
   top:298px;
   width:316px;
   visibility:hidden;
+  word-wrap:break-word;
+}
+#u41455_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:191px;
+  height:530px;
+  background:inherit;
+  background-color:rgba(242, 242, 242, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  text-align:left;
+  line-height:20px;
+}
+#u41455 {
+  border-width:0px;
+  position:absolute;
+  left:440px;
+  top:210px;
+  width:191px;
+  height:530px;
+  text-align:left;
+  line-height:20px;
+}
+#u41456 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:187px;
   word-wrap:break-word;
 }
